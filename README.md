@@ -1,4 +1,21 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Rick and Morty landings
+This educational project is built using Next.js and connects to an API featuring characters from the animated series "Rick and Morty." The application includes a character catalog where users can browse through various characters and access detailed information about each one. Additionally, users have the option to switch between light and dark themes, enhancing the user experience. The application is also responsive, ensuring that it functions well on various devices and screen sizes.
+
+## Look at this
+
+**First page with all persons from Rick  гniverse**
+
+![image](https://github.com/user-attachments/assets/d757db6d-c007-498b-810e-a031a54e882b)
+
+**More about each person**
+
+![image](https://github.com/user-attachments/assets/1fedab7d-ca83-43ba-8368-9f0a38942811)
+
+**Enjoy to conversations**
+
+![image](https://github.com/user-attachments/assets/4728c98f-e66e-4d83-a7a0-c37e4cb112bb)
+
+
 
 ## Getting Started
 
